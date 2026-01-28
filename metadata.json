@@ -1,0 +1,8 @@
+{
+  "name": "The Flying Panda - Visa Slot Tracker",
+  "description": "Internal tool for tracking visa slot alerts across different countries and visa types, featuring an AI-powered insights dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
