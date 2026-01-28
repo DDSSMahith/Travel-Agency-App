@@ -1,9 +1,5 @@
 # 🐼 The Flying Panda: Visa Slot Tracker
 
-![Theme](https://img.shields.io/badge/Theme-White%20%26%20Green-emerald)
-![Role](https://img.shields.io/badge/Role-Internal%20Logistics-blue)
-![AI](https://img.shields.io/badge/Powered%20By-Gemini%203.0%20Flash-orange)
-
 An enterprise-grade internal monitoring terminal built for **The Flying Panda** (theflyingpanda.io). This application empowers travel agents to track, filter, and manage high-priority visa appointment slots globally, ensuring a stress-free experience for travelers.
 
 ##  Project Overview
